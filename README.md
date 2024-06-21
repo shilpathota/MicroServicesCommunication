@@ -1,4 +1,4 @@
-# MicroServicesCommunication
+# MicroServices Asynchronous Communication - Kafka
  
 This project demostrates how the micro services can communicate in the event-driven architecture.
 
